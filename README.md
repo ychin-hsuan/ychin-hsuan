@@ -1,5 +1,7 @@
 # 💫 About Me:
-Taipei <-> Hualien<br>NDHU student
+I'm Kiki<br>
+study at National Dong Hwa University<br>
+Taipei <-> Hualien
 
 
 ## 🌐 Socials:
