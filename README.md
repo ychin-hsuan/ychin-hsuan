@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Kiki<br>
 study at National Dong Hwa University<br>
-Taipei <-> Hualien
+📍 Taipei <-> Hualien
 
 
 ## 🌐 Socials:
