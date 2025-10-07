@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studied in the Department of Information Management at National Dong Hwa University, and transferred to the Department of Information Management at Chang Gung University.<br>
+Studied in the Department of Information Management at National Dong Hwa University, <br> and transferred to the Department of Information Management at Chang Gung University.<br>
 📍 Taipei
 
 
