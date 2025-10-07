@@ -1,6 +1,6 @@
 # 💫 About Me:
-study at National Dong Hwa University<br>
-📍 Taipei <-> Hualien
+Studied in the Department of Information Management at National Dong Hwa University, and transferred to the Department of Information Management at Chang Gung University.<br>
+📍 Taipei
 
 
 ## 🌐 Socials:
